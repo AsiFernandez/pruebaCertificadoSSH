@@ -10,7 +10,7 @@ Reino2
 Reino3
 Reino4
 
-linea1 (RAMA)
+Winterfell
 
 
-linea2 (MASTER)
+Desenbarco del Rey
